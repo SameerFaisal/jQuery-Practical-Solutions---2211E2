@@ -1,0 +1,18 @@
+/* .img{
+    background-image: url("./download.jfif");
+} */
+.p1{
+    color: purple;
+    text-decoration: underline;
+    background-color: yellow;
+}
+.para{
+    color: white;
+    background-color: black;
+}
+div{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    color: white;
+}
